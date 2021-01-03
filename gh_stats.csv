@@ -1,0 +1,171 @@
+Project,Company,Category,SubCat,URL,Starcount,Subscribers,TotalIssues,Forks,Contributors,Releases,Pulls,TopLanguage,GitURL
+prestodb/presto,Ahana,Data,Database,Ahana.io,11528,891,15547,3949,333,0,11150,Java,https://github.com/prestodb/presto
+airbytehq/airbyte,Airbyte,Data,Integration,airbyte.io,404,24,1489,41,18,13,945,Java,https://github.com/airbytehq/airbyte
+algorand/go-algorand,Algorand,Blockchain,Blockchain,algorando.com,373,40,1784,141,40,28,1271,Go,https://github.com/algorand/go-algorand
+allegroai/clearml,Allegro,AI/ML,AI/ML Ops,allegro.ai,2065,66,269,262,22,37,34,Python,https://github.com/allegroai/clearml
+Alluxio/alluxio,Alluxio,Data,Orchestration,alluxio.com,4879,431,12682,2394,350,42,11748,Java,https://github.com/Alluxio/alluxio
+ClickHouse/ClickHouse,Altinity,Data ,Analytical,altinity.com,13983,608,18691,2759,296,70,12126,C++,https://github.com/ClickHouse/ClickHouse
+anchore/anchore-engine,Anchore,Containers,Security,https://anchore.com/,1132,51,812,192,35,0,288,Python,https://github.com/anchore/anchore-engine
+ray-project/ray,Anyscale,Dev Framework,PaaS,https://www.anyscale.com/,14265,412,12904,2282,401,39,7466,Python,https://github.com/ray-project/ray
+spinnaker/spinnaker,Armory,Devops,CD,https://www.armory.io/,7553,368,6243,1065,111,70,1511,Shell,https://github.com/spinnaker/spinnaker
+kubeflow/kubeflow,Arrikto,AI/ML,AI/ML Ops,https://www.arrikto.com/,9783,392,5474,1571,208,72,2497,Jsonnet,https://github.com/kubeflow/kubeflow
+apache/airflow,Astronomer,Data,Integration,https://www.astronomer.io/,19827,739,13357,7715,414,24,10833,Python,https://github.com/apache/airflow
+teambit/bit,Bit Dev,Developer,Catalog,https://bit.dev,12658,184,3567,640,41,90,2554,TypeScript,https://github.com/teambit/bit
+brimsec/brim,Brim Security,Networking,Security, https://brimup.com,918,23,1236,52,11,29,902,TypeScript,https://github.com/brimsec/brim
+bufbuild/buf,Buf,Developer,API Management,https://buf.build/,1736,37,224,38,6,47,104,Go,https://github.com/bufbuild/buf
+open-policy-agent/opa,Build Security,Devops,Security,https://build.security/,4430,104,3040,523,150,90,1810,Go,https://github.com/open-policy-agent/opa
+bazelbuild/bazel,BuildBuddy,Developer,Build Tools,https://www.buildbuddy.io/,16016,598,12206,2807,339,96,3878,Java,https://github.com/bazelbuild/bazel
+linkerd/linkerd2,Buoyant,Containers,Service Mesh,https://buoyant.io/,6391,187,5313,685,150,156,2907,Go,https://github.com/linkerd/linkerd2
+tf-encrypted/tf-encrypted,Cape Privacy,AI/ML,Data Management,https://capeprivacy.com/,806,43,831,138,24,0,439,Python,https://github.com/tf-encrypted/tf-encrypted
+chaostoolkit/chaostoolkit,chaos iq,PlatformOps,Chaos Testing,https://chaosiq.io/,1155,39,192,109,10,36,59,Python,https://github.com/chaostoolkit/chaostoolkit
+charmbracelet/glow,Charm,Developer,Tools,https://charm.sh/,5814,58,172,110,15,15,99,Go,https://github.com/charmbracelet/glow
+checkly/headless-recorder,Checkly,Developer,QA,https://www.checklyhq.com/,12536,208,125,530,14,17,48,JavaScript,https://github.com/checkly/headless-recorder
+chromaui/learnstorybook.com,chromatic,Developer,QA,https://www.chromatic.com/,2141,35,429,272,110,0,342,JavaScript,https://github.com/chromaui/learnstorybook.com
+m3db/m3,Chronosphere,PlatformOps,Monitoring DB,http://www.chronosphere.io,3355,105,3055,315,79,80,2520,Go,https://github.com/m3db/m3
+cloudify-cosmo/cloudify-manager,Cloudify,PlatformOps,Automation,http://cloudify.co,95,40,2540,64,59,1,2532,Python,https://github.com/cloudify-cosmo/cloudify-manager
+cockroachdb/cockroach,Cockroach Labs,Data,Database,https://www.cockroachlabs.com/,19649,715,58367,2472,341,0,28613,Go,https://github.com/cockroachdb/cockroach
+cdr/code-server,Coder,Developer,IDE,https://coder.com/,38923,636,2366,3020,105,56,484,TypeScript,https://github.com/cdr/code-server
+codesandbox/codesandbox-client,CodeSandbox,Developer,Tooling,http://codesandbox.io,10159,187,5222,1613,249,0,2671,JavaScript,https://github.com/codesandbox/codesandbox-client
+dask/dask,Coiled,AI/ML,Platform,https://coiled.io/,7711,235,6989,1204,400,0,3576,Python,https://github.com/dask/dask
+compound-finance/compound-protocol,Compound,Developer,API Services,https://compound.finance,451,40,88,310,13,10,68,Solidity,https://github.com/compound-finance/compound-protocol
+cortexlabs/cortex,Cortex Labs,AI/ML,Platform,http://cortex.dev/,7159,166,1748,544,18,43,895,Go,https://github.com/cortexlabs/cortex
+crowdsecurity/crowdsec,CrowdSec,Networking,Security,https://crowdsec.net/,2611,57,555,120,11,33,439,Go,https://github.com/crowdsecurity/crowdsec
+cube-js/cube.js,Cube Dev,Developer,Framework,https://cube.dev/,9464,136,1715,797,120,335,1020,JavaScript,https://github.com/cube-js/cube.js
+cypress-io/cypress,Cypress,Developer,QA,https://www.cypress.io/,26234,455,9597,1556,229,223,2588,JavaScript,https://github.com/cypress-io/cypress
+cyralinc/approzium,cyral,Data ,Security,https://cyral.com/,49,6,207,3,6,5,127,Go,https://github.com/cyralinc/approzium
+databand-ai/dbnd,Databand,Data,Orchestration,https://databand.ai/,139,14,41,11,13,0,37,Python,https://github.com/databand-ai/dbnd
+dataform-co/dataform,dataform,Data,Quality,https://dataform.co/,304,11,1152,49,16,64,878,TypeScript,https://github.com/dataform-co/dataform
+dataframehq/whale,Dataframe,Data,Discovery,https://www.dataframe.ai/,456,20,127,26,10,16,78,Python,https://github.com/dataframehq/whale
+forem/forem,Dev.to,Developer,Portals,Dev.to,15763,378,11707,2678,449,0,8181,Ruby,https://github.com/forem/forem
+dgraph-io/dgraph,Dgraph,Developer,GraphQl,https://dgraph.io/,14572,373,7202,1076,158,92,4894,Go,https://github.com/dgraph-io/dgraph
+dolthub/dolt,DoltHub,Data,Version Control,https://www.dolthub.com,2188,37,1165,73,50,41,874,Go,https://github.com/dolthub/dolt
+apache/arrow,Dremio,Data,Database-Analytical,https://www.dremio.com/,6817,315,9085,1710,370,0,8543,C++,https://github.com/apache/arrow
+earthly/earthly,Earthly Technologies,Containers,Build Tools,https://earthly.dev/,1662,17,685,70,21,47,503,Go,https://github.com/earthly/earthly
+dagster-io/dagster,Elementl,Data,Orchestration,https://www.elementl.com,2480,57,3425,257,94,68,1082,Python,https://github.com/dagster-io/dagster
+fingerprintjs/fingerprintjs,FingerprintJS,Developer,Security,https://fingerprintjs.com/,12412,414,590,1531,63,29,163,TypeScript,https://github.com/fingerprintjs/fingerprintjs
+frontity/frontity,Frontity,Developer,Framework,https://frontity.com/,1830,52,643,163,31,321,423,TypeScript,https://github.com/frontity/frontity
+garden-io/garden,Garden,Containers,Automation,https://garden.io/,1969,38,2175,123,45,130,1536,TypeScript,https://github.com/garden-io/garden
+gatsbyjs/gatsby,Gatsby,Developer,Framework,https://www.gatsbyjs.org,48456,942,28480,9163,433,78,16595,JavaScript,https://github.com/gatsbyjs/gatsby
+gitpod-io/gitpod,Gitpod,Developer,Environment,https://www.gitpod.io,2941,81,2615,281,27,0,368,TypeScript,https://github.com/gitpod-io/gitpod
+gravitational/teleport,Gravitational,Developer,Environment,https://goteleport.com/,8881,229,5206,721,109,252,2791,Go,https://github.com/gravitational/teleport
+gretelai/gretel-synthetics,Gretel,AI/ML,Data,https://gretel.ai/,121,12,78,12,6,30,59,Python,https://github.com/gretelai/gretel-synthetics
+PyTorchLightning/pytorch-lightning,Grid AI,AI/ML,Development,https://www.grid.ai/,11177,206,5264,1281,347,36,2675,Python,https://github.com/PyTorchLightning/pytorch-lightning
+grouparoo/grouparoo,Grouparoo,Data,Integration,https://grouparoo.com,273,7,1125,21,7,93,951,JavaScript,https://github.com/grouparoo/grouparoo
+hasura/graphql-engine,Hasura,Developer,GraphQl,http://hasura.io/,19771,282,6304,1741,317,81,2958,Haskell,https://github.com/hasura/graphql-engine
+huggingface/transformers,Hugging Face,AI/ML,Development,https://huggingface.co/,38833,698,9374,9542,431,44,3924,Python,https://github.com/huggingface/transformers
+apache/druid,Imply,Data,Database,https://imply.io/,10400,634,10702,2794,363,42,6908,Java,https://github.com/apache/druid
+cilium/cilium,Isovalent,Networking,Security,https://isovalent.com/,7197,237,14465,856,217,129,9935,Go,https://github.com/cilium/cilium
+iterative/dvc,Iterative AI,AI/ML,Version Control,https://iterative.ai/,6986,121,5147,660,186,294,2556,Python,https://github.com/iterative/dvc
+jitsucom/eventnative,Jitsu,Data,Integration,https://jitsu.com/,1064,22,157,52,8,47,90,Go,https://github.com/jitsucom/eventnative
+lensesio/fast-data-dev,Lenses.io,Data,DataOps,Lenses.io,1457,50,169,243,18,0,61,Shell,https://github.com/lensesio/fast-data-dev
+logicalclocks/hopsworks,Logical Clocks,AI/ML,Platform,http://www.logicalclocks.com,348,21,790,58,31,13,790,Java,https://github.com/logicalclocks/hopsworks
+materializeinc/materialize,Materialize,Data,Database-Streaming,https://materialize.io/,2133,50,5169,115,38,18,3560,Rust,https://github.com/materializeinc/materialize
+meilisearch/MeiliSearch,MeiliSearch,Data,Search Engine,https://www.meilisearch.com/,10775,157,1075,342,41,30,557,Rust,https://github.com/meilisearch/MeiliSearch
+linkedin/datahub,Metaphor Data,Data,Discovery,https://linkedin.github.io/datahub/,2566,198,2037,723,61,13,1521,TypeScript,https://github.com/linkedin/datahub
+mindsdb/mindsdb,MindsDB,AI/ML,Data,http://mindsdb.com,3123,212,1023,406,47,31,539,Python,https://github.com/mindsdb/mindsdb
+MycroftAI/mycroft-core,Mycroft AI,AI/ML,Voiec,www.mycroft.ai,4814,293,2761,1058,141,124,1847,Python,https://github.com/MycroftAI/mycroft-core
+n8n-io/n8n,n8n.io,Workflow,Automation,https://n8n.io/,11557,190,1302,888,105,0,1036,TypeScript,https://github.com/n8n-io/n8n
+vesoft-inc/nebula,Nebula Graph,Data,Database-Graph,https://nebula-graph.io,5527,158,2429,534,55,10,1615,C++,https://github.com/vesoft-inc/nebula
+netdata/netdata,Netdata,PlatformOps,Monitoring,https://www.netdata.cloud/,50951,1437,10416,4671,398,40,4422,C,https://github.com/netdata/netdata
+nuxt/nuxt.js,NuxtJS,Developer,Framework,https://nuxtjs.org/,32864,753,8396,2744,272,141,2572,JavaScript,https://github.com/nuxt/nuxt.js
+d3/d3,Observable,Data,Visualization,https://observablehq.com/,95113,3976,3161,22440,121,161,1100,JavaScript,https://github.com/d3/d3
+apache/tvm,OctoML,AI/ML,Compiler,https://octoml.ai/,6128,382,7188,1785,394,9,5521,Python,https://github.com/apache/tvm
+okteto/okteto,Okteto,Developer,Environment,https://okteto.com/,1414,30,1228,126,24,96,799,Go,https://github.com/okteto/okteto
+onepanelio/core,Onepanel,AI/ML,Platform,https://www.onepanel.io,367,17,814,29,7,30,378,Go,https://github.com/onepanelio/core
+opstrace/opstrace,Opstrace,PlatformOps,Observability,https://opstrace.com/,332,8,215,9,9,0,109,TypeScript,https://github.com/opstrace/opstrace
+orchest/orchest,Orchest,AI/ML,Orchestration,www.orchest.io,583,11,102,29,5,14,71,Python,https://github.com/orchest/orchest
+OrchidTechnologies/orchid,Orchid,Networking,Security,www.orchid.com,291,51,64,56,13,18,35,C++,https://github.com/OrchidTechnologies/orchid
+panther-labs/panther,Panther Labs,Security,SIEM,https://www.runpanther.io/,798,24,2288,70,32,29,1542,Go,https://github.com/panther-labs/panther
+pingcap/tidb,PingCap,Data,Database,https://pingcap.com/,26404,1354,22121,4119,397,114,15676,Go,https://github.com/pingcap/tidb
+pixie-labs/pixie,Pixie,PlatformOps,Observability,https://pixielabs.ai/,502,32,190,27,10,0,133,Python,https://github.com/pixie-labs/pixie
+planetscale/vitess-operator,Planetscale,Data,Database,https://www.planetscale.com/,87,22,166,15,13,4,143,Go,https://github.com/planetscale/vitess-operator
+PostHog/posthog,PostHog,Developer,Analytics,https://posthog.com/,3568,50,2829,252,59,0,1729,Python,https://github.com/PostHog/posthog
+PrefectHQ/prefect,Prefect,Data,Orchestration,https://www.prefect.io/,5627,140,3769,480,145,78,2295,Python,https://github.com/PrefectHQ/prefect
+apache/incubator-superset,Preset,Data,Visualization,https://preset.io/,31716,1309,12105,6541,438,16,6790,Python,https://github.com/apache/incubator-superset
+prisma/prisma,Prisma,Developer,Data,https://www.prisma.io/,7170,100,3778,334,112,81,1104,TypeScript,https://github.com/prisma/prisma
+pulumi/pulumi,Pulumi,PlatformOps,Platform,https://www.pulumi.io/,7400,139,5950,386,88,32,2840,Go,https://github.com/pulumi/pulumi
+questdb/questdb,QuestDB,Data,Database-TS,https://questdb.io/,2140,57,742,103,24,28,451,Java,https://github.com/questdb/questdb
+RasaHQ/rasa,rasa,AI/ML,Chatbot,https://rasa.com/,10447,347,7666,3224,329,72,2876,Python,https://github.com/RasaHQ/rasa
+resemble-ai/Resemblyzer,Resemble,AI/ML,Voice,https://www.resemble.ai/,1189,54,45,215,5,1,6,Python,https://github.com/resemble-ai/Resemblyzer
+robocorp/rpaframework,Robocorp,RPA,RPA,https://robocorp.com/,147,26,122,44,11,0,67,Python,https://github.com/robocorp/rpaframework
+facebook/rocksdb,Rockset,Data,Database,https://rockset.com/,18488,1024,7727,4184,331,132,5617,C++,https://github.com/facebook/rocksdb
+rudderlabs/rudder-server,RudderStack,Data,Orchestration,https://rudderstack.com/,2186,37,748,101,39,13,672,Go,https://github.com/rudderlabs/rudder-server
+mirumee/saleor,Saleor,ecommerce,Platform,https://saleor.io/,9986,360,6468,3415,157,54,3601,Python,https://github.com/mirumee/saleor
+sanity-io/sanity,Sanity,CMS,Platform,https://www.sanity.io/,2214,56,2196,194,46,216,1562,TypeScript,https://github.com/sanity-io/sanity
+sensu/sensu-go,Sensu,PlatformOps,Observability,https://sensu.io/,591,42,4066,118,44,64,1880,Go,https://github.com/sensu/sensu-go
+serverless/serverless,Serverless,Developer,Framework,https://serverless.com/,38425,1002,8624,4531,362,209,3794,JavaScript,https://github.com/serverless/serverless
+snorkel-team/snorkel,Snorkel,AI/ML,Data,https://snorkel.ai/,4380,176,1613,719,53,12,685,Python,https://github.com/snorkel-team/snorkel
+snyk/snyk,Snyk,Developer,Security,snyk.io,2682,108,1568,270,114,870,1175,TypeScript,https://github.com/snyk/snyk
+solo-io/gloo,Solo,Developer,API Gateway,https://www.solo.io/,2727,84,4044,246,72,350,2050,Go,https://github.com/solo-io/gloo
+zaproxy/zaproxy,Stackhawk,Networking,Security,https://www.stackhawk.com/,8093,396,6354,1564,152,192,2472,Java,https://github.com/zaproxy/zaproxy
+cloud-custodian/cloud-custodian,Stacklet,Cloud,Security,https://stacklet.io/,3337,164,6374,959,280,42,3436,Python,https://github.com/cloud-custodian/cloud-custodian
+prestosql/presto,Starburst,Data,Database,https://www.starburstdata.com/,2004,119,6482,829,346,0,4564,Java,https://github.com/prestosql/presto
+amundsen-io/amundsen,Stemma,Data,Discovery,http://stemma.ai/,1640,249,866,341,56,0,524,HTML,https://github.com/amundsen-io/amundsen
+strapi/strapi,strapi,CMS,Headless,https://strapi.io/,32465,600,8092,4050,388,162,3588,JavaScript,https://github.com/strapi/strapi
+streamlit/streamlit,Streamlit,Developer,Framework,https://www.streamlit.io,12375,244,2541,1041,75,2,1109,Python,https://github.com/streamlit/streamlit
+apache/pulsar,StreamNative,Developer,Message Queue,https://streamnative.io,7034,382,9104,1739,340,45,6259,Java,https://github.com/apache/pulsar
+open-policy-agent/opa,styra,PlatformOps,Security,https://www.styra.com/,4430,104,3040,523,150,90,1810,Go,https://github.com/open-policy-agent/opa
+supabase/supabase,Supabase,Developer,Platform,https://supabase.io/,4636,146,364,170,32,7,223,TypeScript,https://github.com/supabase/supabase
+swimos/swim,Swim.ai,Developer,Framework - Streaming,Swim.ai,353,30,60,20,7,1,20,Java,https://github.com/swimos/swim
+tailscale/tailscale,tailscale,Networking,Security,https://tailscale.com/,3280,68,1084,171,40,6,468,Go,https://github.com/tailscale/tailscale
+taosdata/TDengine,Taos Data,IOT,Platform,https://www.taosdata.com/,14350,672,4776,3678,56,8,3012,C,https://github.com/taosdata/TDengine
+uber/cadence,Temporal,Workflow,Automation,https://temporal.io/,4550,1606,3868,443,77,52,2631,Go,https://github.com/uber/cadence
+envoyproxy/envoy,tetrate,Networking,TrafficManager,https://www.tetrate.io/,15618,600,14542,2773,406,46,9568,C++,https://github.com/envoyproxy/envoy
+projectcalico/calico,Tigera,Networking,Security,https://www.tigera.io/,2254,102,4286,570,159,142,2860,HTML,https://github.com/projectcalico/calico
+TileDB-Inc/TileDB,TileDB,Data,Database,https://tiledb.com/,1018,53,1994,109,34,54,1317,C++,https://github.com/TileDB-Inc/TileDB
+tilt-dev/tilt,Tilt,Developer,Environment,https://tilt.dev/,4011,38,4035,146,42,124,3278,Go,https://github.com/tilt-dev/tilt
+timberio/vector,Timber,Data,Orchestration,https://timber.io/,6002,94,5669,380,104,16,2895,Rust,https://github.com/timberio/vector
+timescale/timescaledb,Timescale,Data,Database-TS,http://www.timescale.com/,10076,284,2768,541,44,53,1571,C,https://github.com/timescale/timescaledb
+traefik/traefik,Traefik Labs,Networking,TrafficManager,https://traefik.io,32087,698,7691,3533,435,316,3415,Go,https://github.com/traefik/traefik
+crossplane/crossplane,Upbound,PlatformOps,Platform,https://upbound.io/,2811,94,2005,271,46,19,1085,Go,https://github.com/crossplane/crossplane
+osquery/osquery,Uptycs,PlatformOps,Observability,https://www.uptycs.com/,17492,709,6823,2089,330,107,4200,C++,https://github.com/osquery/osquery
+vercel/vercel,Vercel,Developer,Platform,https://vercel.com/,6509,102,4445,841,159,815,2545,TypeScript,https://github.com/vercel/vercel
+webiny/webiny-js,Webiny,Developer,Platform,https://www.webiny.com/,4063,69,1355,305,42,1612,569,TypeScript,https://github.com/webiny/webiny-js
+whylabs/whylogs-python,WhyLabs,AI/ML,Orchestration,https://whylabs.ai/,238,9,116,8,7,4,86,Python,https://github.com/whylabs/whylogs-python
+yugabyte/yugabyte-db,Yugabyte,Data,Database,https://www.yugabyte.com/,4698,177,6775,493,138,43,952,C,https://github.com/yugabyte/yugabyte-db
+milvus-io/milvus,Zilliz,Data,Search Engine,https://zilliz.com/,4835,139,4452,759,117,17,2406,C++,https://github.com/milvus-io/milvus
+artifacthub/hub,Artifact Hub,PlatformOps,Catalog,artifacthub.io/,343,13,989,34,12,12,722,TypeScript,https://github.com/artifacthub/hub
+mongodb/mongo,MongoDB,Data,Database,Mongodb.com,19064,1255,1369,4684,274,0,1369,C++,https://github.com/mongodb/mongo
+elastic/elasticsearch,Elastic,Data,Database,elastic.com,52996,2800,66723,18672,356,37,40958,Java,https://github.com/elastic/elasticsearch
+tensorflow/tensorflow,Google,AI/ML,Platform,google.com,152116,8285,45852,83651,407,123,16311,C++,https://github.com/tensorflow/tensorflow
+kubernetes/kubernetes,CNCF,PlatformOps,Platform,cncf.io,73217,3301,97607,26461,381,440,60500,Go,https://github.com/kubernetes/kubernetes
+aspnet/Aspnetcore,Microsoft,Developer,Framework,www.microsoft.com,20550,1486,27769,5845,345,98,8042,C#,https://github.com/aspnet/Aspnetcore
+flutter/flutter,Google,Developer,Framework,flutter.dev,109957,3372,72946,15548,400,0,24826,Dart,https://github.com/flutter/flutter
+istio/istio,Istio,Networking,Framework,istio.io,25767,1029,29771,4980,389,175,17464,Go,https://github.com/istio/istio
+helm/helm,cncf,PlatformOps,Catalog,helm.sh,18674,537,9138,5479,379,132,3936,Go,https://github.com/helm/helm
+apache/cassandra,datastax,Data,Database,datastax.xom,6367,491,858,2761,288,0,858,Java,https://github.com/apache/cassandra
+ansible/ansible,RedHat,PlatformOps,Automation,ansible.com,46325,2046,72892,20050,390,3,44251,Python,https://github.com/ansible/ansible
+redis/redis,Redis Labs,Data,Database,redislabs.com,46788,2717,8213,18556,375,6,3614,C,https://github.com/redis/redis
+JanusGraph/janusgraph,JanusGraph,Data ,Database-Graph,JanusGraph.org,3748,238,2293,933,125,18,1052,Java,https://github.com/JanusGraph/janusgraph
+argoproj/argo,Intuit,Devops,CD,argoproj.github.io/argo/,7214,176,4805,1277,322,105,2188,Go,https://github.com/argoproj/argo
+SeldonIO/seldon-core,Seldon,AI/ML,Ops,www.seldon.io,2000,63,2809,449,93,35,1457,Jupyter Notebook,https://github.com/SeldonIO/seldon-core
+derailed/k9s,Derailed,PlatformOps,Kubernetes,k9scli.io,10421,134,1000,563,88,149,184,Go,https://github.com/derailed/k9s
+bottlerocket-os/bottlerocket,Amazon,PlatformOps,OS,https://aws.amazon.com/bottlerocket/,5113,114,1206,206,24,20,777,Rust,https://github.com/bottlerocket-os/bottlerocket
+sourcegraph/sourcegraph,Sourcegraph,Developer,Search Engine,www.sourcegraph.com,4234,105,16936,486,143,0,10633,Go,https://github.com/sourcegraph/sourcegraph
+backstage/backstage,backstage,Developer,Portals,backstage.io,9136,156,3894,790,200,17,2864,TypeScript,https://github.com/backstage/backstage
+bfenetworks/bfe,Baidu,Networking,TrafficManager,www.bfe-networks.net,4218,183,682,717,75,12,486,Go,https://github.com/bfenetworks/bfe
+brigadecore/brigade,Brigade,PlatformOps,Kubernetes,brigade.sh/,2045,67,1204,208,77,29,651,Go,https://github.com/brigadecore/brigade
+chaos-mesh/chaos-mesh,Pingcap,PlatformOps,Chaos Testing,chaos-mesh.org,3117,133,1336,311,72,7,886,Go,https://github.com/chaos-mesh/chaos-mesh
+chubaofs/chubaofs,Chubao,Data,Data Lake,chubao.io/,2086,76,1050,256,30,15,858,Go,https://github.com/chubaofs/chubaofs
+dexidp/dex,CNCF,PlatformOps,Identity,dexidp.io,5311,168,1899,1082,151,60,1030,Go,https://github.com/dexidp/dex
+fluxcd/flux,Weave,DevOps,CD,https://www.weave.works/oss/flux/,5903,117,3340,1047,248,74,1800,Go,https://github.com/fluxcd/flux
+in-toto/in-toto,CNCF,Devops,Security,in-toto.io,287,30,418,66,23,16,303,Python,https://github.com/in-toto/in-toto
+k3s-io/k3s,Rancher,PlatformOps,Kubernetes,https://rancher.com/docs/k3s/latest/en/,15442,282,2758,1244,116,182,978,Go,https://github.com/k3s-io/k3s
+keptn/keptn,Dynatrace,Devops,CD,https://keptn.sh/,675,17,2864,82,40,23,1603,Go,https://github.com/keptn/keptn
+kubevirt/kubevirt,RedHat,PlatformOps,Platform,kubevirt.io,2255,95,4732,535,164,153,3240,Go,https://github.com/kubevirt/kubevirt
+kumahq/kuma,Kuma,Networking,TrafficManager,www.kuma.io,2012,57,1372,128,27,22,1033,Go,https://github.com/kumahq/kuma
+litmuschaos/litmus,Litmus ,PlatformOps,Chaos Testing,https://litmuschaos.io/,1441,48,2382,301,116,39,1515,TypeScript,https://github.com/litmuschaos/litmus
+longhorn/longhorn,Longhorn,Data,Storage,https://longhorn.io/,2193,81,2147,215,30,55,277,Shell,https://github.com/longhorn/longhorn
+strimzi/strimzi-kafka-operator,RedHat,Data,Streaming,https://strimzi.io/,2117,91,4149,509,103,73,2740,Java,https://github.com/strimzi/strimzi-kafka-operator
+volcano-sh/volcano,Volcano,Data,Automation,https://volcano.sh/,1410,70,1230,309,106,12,774,Go,https://github.com/volcano-sh/volcano
+thanos-io/thanos,CNCF,PlatformOps,Observability,https://thanos.io/,7357,229,3644,1050,300,52,2265,Go,https://github.com/thanos-io/thanos
+kubeedge/kubeedge,CNCF,PlatformOps,Platform,https://kubeedge.io/,3404,156,2484,887,166,17,1519,Go,https://github.com/kubeedge/kubeedge
+falcosecurity/falco,Sysdig,PlatformOps,Security,https://falco.org/,3331,110,1490,416,89,38,877,C++,https://github.com/falcosecurity/falco
+projectcontour/contour,VMware,PlatformOps,TrafficManager,https://projectcontour.io/,2601,83,3226,438,121,49,1953,Go,https://github.com/projectcontour/contour
+goharbor/harbor,VMware,PlatformOps,Catalog,https://goharbor.io/,13725,506,13873,3543,194,133,6187,Go,https://github.com/goharbor/harbor
+jaegertracing/jaeger,RedHat,PlatformOps,Observability,https://www.jaegertracing.io/,12520,338,2663,1431,177,39,1386,Go,https://github.com/jaegertracing/jaeger
+coredns/coredns,InfoBlox,Networking,DNS,https://coredns.io/,7010,222,4352,1209,229,51,2682,Go,https://github.com/coredns/coredns
+rook/rook,CNCF,Data,Storage,rook.io,8156,280,6892,1741,300,71,3754,Go,https://github.com/rook/rook
+ethereum/go-ethereum,Ethereum,Blockchain,Platform,,27573,2019,11104,10171,419,138,5861,Go,https://github.com/ethereum/go-ethereum
+bigchaindb/bigchaindb,Bigchain,Blockchain,Database,https://www.bigchaindb.com/,3545,233,2714,727,66,51,1524,Python,https://github.com/bigchaindb/bigchaindb
+corda/corda,Corda,Blockchain,Platform,corda.net,3470,304,6837,959,185,15,6244,Kotlin,https://github.com/corda/corda

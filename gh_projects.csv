@@ -1,0 +1,170 @@
+prestodb/presto,Ahana,Data,Database,Ahana.io
+airbytehq/airbyte,Airbyte,Data,Integration,airbyte.io
+algorand/go-algorand,Algorand,Blockchain,Blockchain,algorando.com
+allegroai/clearml,Allegro,AI/ML,AI/ML Ops,allegro.ai
+Alluxio/alluxio,Alluxio,Data,Orchestration,alluxio.com
+ClickHouse/ClickHouse,Altinity,Data ,Analytical,altinity.com
+anchore/anchore-engine,Anchore,Containers,Security,https://anchore.com/
+ray-project/ray,Anyscale,Dev Framework,PaaS,https://www.anyscale.com/
+spinnaker/spinnaker,Armory,Devops,CD,https://www.armory.io/
+kubeflow/kubeflow,Arrikto,AI/ML,AI/ML Ops,https://www.arrikto.com/
+apache/airflow,Astronomer,Data,Integration,https://www.astronomer.io/
+teambit/bit,Bit Dev,Developer,Catalog,https://bit.dev
+brimsec/brim,Brim Security,Networking,Security, https://brimup.com
+bufbuild/buf,Buf,Developer,API Management,https://buf.build/
+open-policy-agent/opa,Build Security,Devops,Security,https://build.security/
+bazelbuild/bazel,BuildBuddy,Developer,Build Tools,https://www.buildbuddy.io/
+linkerd/linkerd2,Buoyant,Containers,Service Mesh,https://buoyant.io/
+tf-encrypted/tf-encrypted,Cape Privacy,AI/ML,Data Management,https://capeprivacy.com/
+chaostoolkit/chaostoolkit,chaos iq,PlatformOps,Chaos Testing,https://chaosiq.io/
+charmbracelet/glow,Charm,Developer,Tools,https://charm.sh/
+checkly/headless-recorder,Checkly,Developer,QA,https://www.checklyhq.com/
+chromaui/learnstorybook.com,chromatic,Developer,QA,https://www.chromatic.com/
+m3db/m3,Chronosphere,PlatformOps,Monitoring DB,http://www.chronosphere.io
+cloudify-cosmo/cloudify-manager,Cloudify,PlatformOps,Automation,http://cloudify.co
+cockroachdb/cockroach,Cockroach Labs,Data,Database,https://www.cockroachlabs.com/
+cdr/code-server,Coder,Developer,IDE,https://coder.com/
+codesandbox/codesandbox-client,CodeSandbox,Developer,Tooling,http://codesandbox.io
+dask/dask,Coiled,AI/ML,Platform,https://coiled.io/
+compound-finance/compound-protocol,Compound,Developer,API Services,https://compound.finance
+cortexlabs/cortex,Cortex Labs,AI/ML,Platform,http://cortex.dev/
+crowdsecurity/crowdsec,CrowdSec,Networking,Security,https://crowdsec.net/
+cube-js/cube.js,Cube Dev,Developer,Framework,https://cube.dev/
+cypress-io/cypress,Cypress,Developer,QA,https://www.cypress.io/
+cyralinc/approzium,cyral,Data ,Security,https://cyral.com/
+databand-ai/dbnd,Databand,Data,Orchestration,https://databand.ai/
+dataform-co/dataform,dataform,Data,Quality,https://dataform.co/
+dataframehq/whale,Dataframe,Data,Discovery,https://www.dataframe.ai/
+forem/forem,Dev.to,Developer,Portals,Dev.to
+dgraph-io/dgraph,Dgraph,Developer,GraphQl,https://dgraph.io/
+dolthub/dolt,DoltHub,Data,Version Control,https://www.dolthub.com
+apache/arrow,Dremio,Data,Database-Analytical,https://www.dremio.com/
+earthly/earthly,Earthly Technologies,Containers,Build Tools,https://earthly.dev/
+dagster-io/dagster,Elementl,Data,Orchestration,https://www.elementl.com
+fingerprintjs/fingerprintjs,FingerprintJS,Developer,Security,https://fingerprintjs.com/
+frontity/frontity,Frontity,Developer,Framework,https://frontity.com/
+garden-io/garden,Garden,Containers,Automation,https://garden.io/
+gatsbyjs/gatsby,Gatsby,Developer,Framework,https://www.gatsbyjs.org
+gitpod-io/gitpod,Gitpod,Developer,Environment,https://www.gitpod.io
+gravitational/teleport,Gravitational,Developer,Environment,https://goteleport.com/
+gretelai/gretel-synthetics,Gretel,AI/ML,Data,https://gretel.ai/
+PyTorchLightning/pytorch-lightning,Grid AI,AI/ML,Development,https://www.grid.ai/
+grouparoo/grouparoo,Grouparoo,Data,Integration,https://grouparoo.com
+hasura/graphql-engine,Hasura,Developer,GraphQl,http://hasura.io/
+huggingface/transformers,Hugging Face,AI/ML,Development,https://huggingface.co/
+apache/druid,Imply,Data,Database,https://imply.io/
+cilium/cilium,Isovalent,Networking,Security,https://isovalent.com/
+iterative/dvc,Iterative AI,AI/ML,Version Control,https://iterative.ai/
+jitsucom/eventnative,Jitsu,Data,Integration,https://jitsu.com/
+lensesio/fast-data-dev,Lenses.io,Data,DataOps,Lenses.io
+logicalclocks/hopsworks,Logical Clocks,AI/ML,Platform,http://www.logicalclocks.com
+materializeinc/materialize,Materialize,Data,Database-Streaming,https://materialize.io/
+meilisearch/MeiliSearch,MeiliSearch,Data,Search Engine,https://www.meilisearch.com/
+linkedin/datahub,Metaphor Data,Data,Discovery,https://linkedin.github.io/datahub/
+mindsdb/mindsdb,MindsDB,AI/ML,Data,http://mindsdb.com
+MycroftAI/mycroft-core,Mycroft AI,AI/ML,Voiec,www.mycroft.ai
+n8n-io/n8n,n8n.io,Workflow,Automation,https://n8n.io/
+vesoft-inc/nebula,Nebula Graph,Data,Database-Graph,https://nebula-graph.io
+netdata/netdata,Netdata,PlatformOps,Monitoring,https://www.netdata.cloud/
+nuxt/nuxt.js,NuxtJS,Developer,Framework,https://nuxtjs.org/
+d3/d3,Observable,Data,Visualization,https://observablehq.com/
+apache/tvm,OctoML,AI/ML,Compiler,https://octoml.ai/
+okteto/okteto,Okteto,Developer,Environment,https://okteto.com/
+onepanelio/core,Onepanel,AI/ML,Platform,https://www.onepanel.io
+opstrace/opstrace,Opstrace,PlatformOps,Observability,https://opstrace.com/
+orchest/orchest,Orchest,AI/ML,Orchestration,www.orchest.io
+OrchidTechnologies/orchid,Orchid,Networking,Security,www.orchid.com
+panther-labs/panther,Panther Labs,Security,SIEM,https://www.runpanther.io/
+pingcap/tidb,PingCap,Data,Database,https://pingcap.com/
+pixie-labs/pixie,Pixie,PlatformOps,Observability,https://pixielabs.ai/
+planetscale/vitess-operator,Planetscale,Data,Database,https://www.planetscale.com/
+PostHog/posthog,PostHog,Developer,Analytics,https://posthog.com/
+PrefectHQ/prefect,Prefect,Data,Orchestration,https://www.prefect.io/
+apache/incubator-superset,Preset,Data,Visualization,https://preset.io/
+prisma/prisma,Prisma,Developer,Data,https://www.prisma.io/
+pulumi/pulumi,Pulumi,PlatformOps,Platform,https://www.pulumi.io/
+questdb/questdb,QuestDB,Data,Database-TS,https://questdb.io/
+RasaHQ/rasa,rasa,AI/ML,Chatbot,https://rasa.com/
+resemble-ai/Resemblyzer,Resemble,AI/ML,Voice,https://www.resemble.ai/
+robocorp/rpaframework,Robocorp,RPA,RPA,https://robocorp.com/
+facebook/rocksdb,Rockset,Data,Database,https://rockset.com/
+rudderlabs/rudder-server,RudderStack,Data,Orchestration,https://rudderstack.com/
+mirumee/saleor,Saleor,ecommerce,Platform,https://saleor.io/
+sanity-io/sanity,Sanity,CMS,Platform,https://www.sanity.io/
+sensu/sensu-go,Sensu,PlatformOps,Observability,https://sensu.io/
+serverless/serverless,Serverless,Developer,Framework,https://serverless.com/
+snorkel-team/snorkel,Snorkel,AI/ML,Data,https://snorkel.ai/
+snyk/snyk,Snyk,Developer,Security,snyk.io
+solo-io/gloo,Solo,Developer,API Gateway,https://www.solo.io/
+zaproxy/zaproxy,Stackhawk,Networking,Security,https://www.stackhawk.com/
+cloud-custodian/cloud-custodian,Stacklet,Cloud,Security,https://stacklet.io/
+prestosql/presto,Starburst,Data,Database,https://www.starburstdata.com/
+amundsen-io/amundsen,Stemma,Data,Discovery,http://stemma.ai/
+strapi/strapi,strapi,CMS,Headless,https://strapi.io/
+streamlit/streamlit,Streamlit,Developer,Framework,https://www.streamlit.io
+apache/pulsar,StreamNative,Developer,Message Queue,https://streamnative.io
+open-policy-agent/opa,styra,PlatformOps,Security,https://www.styra.com/
+supabase/supabase,Supabase,Developer,Platform,https://supabase.io/
+swimos/swim,Swim.ai,Developer,Framework - Streaming,Swim.ai
+tailscale/tailscale,tailscale,Networking,Security,https://tailscale.com/
+taosdata/TDengine,Taos Data,IOT,Platform,https://www.taosdata.com/
+uber/cadence,Temporal,Workflow,Automation,https://temporal.io/
+envoyproxy/envoy,tetrate,Networking,TrafficManager,https://www.tetrate.io/
+projectcalico/calico,Tigera,Networking,Security,https://www.tigera.io/
+TileDB-Inc/TileDB,TileDB,Data,Database,https://tiledb.com/
+tilt-dev/tilt,Tilt,Developer,Environment,https://tilt.dev/
+timberio/vector,Timber,Data,Orchestration,https://timber.io/
+timescale/timescaledb,Timescale,Data,Database-TS,http://www.timescale.com/
+traefik/traefik,Traefik Labs,Networking,TrafficManager,https://traefik.io
+crossplane/crossplane,Upbound,PlatformOps,Platform,https://upbound.io/
+osquery/osquery,Uptycs,PlatformOps,Observability,https://www.uptycs.com/
+vercel/vercel,Vercel,Developer,Platform,https://vercel.com/
+webiny/webiny-js,Webiny,Developer,Platform,https://www.webiny.com/
+whylabs/whylogs-python,WhyLabs,AI/ML,Orchestration,https://whylabs.ai/
+yugabyte/yugabyte-db,Yugabyte,Data,Database,https://www.yugabyte.com/
+milvus-io/milvus,Zilliz,Data,Search Engine,https://zilliz.com/
+artifacthub/hub,Artifact Hub,PlatformOps,Catalog,artifacthub.io/
+mongodb/mongo,MongoDB,Data,Database,Mongodb.com
+elastic/elasticsearch,Elastic,Data,Database,elastic.com
+tensorflow/tensorflow,Google,AI/ML,Platform,google.com
+kubernetes/kubernetes,CNCF,PlatformOps,Platform,cncf.io
+aspnet/Aspnetcore,Microsoft,Developer,Framework,www.microsoft.com
+flutter/flutter,Google,Developer,Framework,flutter.dev
+istio/istio,Istio,Networking,Framework,istio.io
+helm/helm,cncf,PlatformOps,Catalog,helm.sh
+apache/cassandra,datastax,Data,Database,datastax.xom
+ansible/ansible,RedHat,PlatformOps,Automation,ansible.com
+redis/redis,Redis Labs,Data,Database,redislabs.com
+JanusGraph/janusgraph,JanusGraph,Data ,Database-Graph,JanusGraph.org
+argoproj/argo,Intuit,Devops,CD,argoproj.github.io/argo/
+SeldonIO/seldon-core,Seldon,AI/ML,Ops,www.seldon.io
+derailed/k9s,Derailed,PlatformOps,Kubernetes,k9scli.io
+bottlerocket-os/bottlerocket,Amazon,PlatformOps,OS,https://aws.amazon.com/bottlerocket/
+sourcegraph/sourcegraph,Sourcegraph,Developer,Search Engine,www.sourcegraph.com
+backstage/backstage,backstage,Developer,Portals,backstage.io
+bfenetworks/bfe,Baidu,Networking,TrafficManager,www.bfe-networks.net
+brigadecore/brigade,Brigade,PlatformOps,Kubernetes,brigade.sh/
+chaos-mesh/chaos-mesh,Pingcap,PlatformOps,Chaos Testing,chaos-mesh.org
+chubaofs/chubaofs,Chubao,Data,Data Lake,chubao.io/
+dexidp/dex,CNCF,PlatformOps,Identity,dexidp.io
+fluxcd/flux,Weave,DevOps,CD,https://www.weave.works/oss/flux/
+in-toto/in-toto,CNCF,Devops,Security,in-toto.io
+k3s-io/k3s,Rancher,PlatformOps,Kubernetes,https://rancher.com/docs/k3s/latest/en/
+keptn/keptn,Dynatrace,Devops,CD,https://keptn.sh/
+kubevirt/kubevirt,RedHat,PlatformOps,Platform,kubevirt.io
+kumahq/kuma,Kuma,Networking,TrafficManager,www.kuma.io
+litmuschaos/litmus,Litmus ,PlatformOps,Chaos Testing,https://litmuschaos.io/
+longhorn/longhorn,Longhorn,Data,Storage,https://longhorn.io/
+strimzi/strimzi-kafka-operator,RedHat,Data,Streaming,https://strimzi.io/
+volcano-sh/volcano,Volcano,Data,Automation,https://volcano.sh/
+thanos-io/thanos,CNCF,PlatformOps,Observability,https://thanos.io/
+kubeedge/kubeedge,CNCF,PlatformOps,Platform,https://kubeedge.io/
+falcosecurity/falco,Sysdig,PlatformOps,Security,https://falco.org/
+projectcontour/contour,VMware,PlatformOps,TrafficManager,https://projectcontour.io/
+goharbor/harbor,VMware,PlatformOps,Catalog,https://goharbor.io/
+jaegertracing/jaeger,RedHat,PlatformOps,Observability,https://www.jaegertracing.io/
+coredns/coredns,InfoBlox,Networking,DNS,https://coredns.io/
+rook/rook,CNCF,Data,Storage,rook.io
+ethereum/go-ethereum,Ethereum,Blockchain,Platform,
+bigchaindb/bigchaindb,Bigchain,Blockchain,Database,https://www.bigchaindb.com/
+corda/corda,Corda,Blockchain,Platform,corda.net
