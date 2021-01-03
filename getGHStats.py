@@ -1,7 +1,7 @@
 from github import Github
 import csv
 
-#Add GH Token here
+#Add GitHub API Token here
 g = Github("")
 L = []
 count = 1
